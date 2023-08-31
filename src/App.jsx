@@ -25,7 +25,7 @@ export default function App() {
           type='text'
           value={username}
           onChange={handleUsernameChange}
-          className='border p-2 rounded-md mr-2'
+          className='border p-2 rounded-md mr-3'
           id='username'
         />
         <button
